@@ -1,5 +1,5 @@
 <p>网站防爬虫、防机器操作、防SQL注入、信息加密一站式部署。</p>
-<p>先在<a href='https://msafe.top'>https://msafe.top</a>提交绑定域名、邮箱信息</p>
+<p>先在<a href='https://msafe.top' target='_blank'>https://msafe.top</a>提交绑定域名、邮箱信息</p>
 <h2>配置流程:</h2>
                         <div class="step">
                             <strong>第一步:</strong> 在您的网站共通页面部分,引入JS代码
