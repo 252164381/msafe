@@ -49,3 +49,16 @@ public class XORBase64 {
                             <strong>第二步:</strong> 前端调用mSafe.decode方法解码
                             <pre><code>mSafe.decode(data.message)</code></pre>
                         </div>
+<h2>邀请码(不定期发放):</h2>
+<pre><code>5fca243da6e11791fb7d7e61a8c6b926
+76f1083b4841cc71e7365d6f073ffedf
+d72006666c7d629a7714938bf94fe140
+459513b6c7fa54f3e21464df1ae635f6
+51ecf14ff6614bf6f3191cde257d7d9c
+d1372c648e86bd01e7c32c38129ad5ca
+0beb450d7127cd29d16437d74dd8e92c
+16457d0ea2fb1fbc5a96a4168feb5504
+a333b04bad5d52ec01b904f26ab70c94
+59f74bcf12f946e9a519c9fa6814ca81
+9e07fb038cfd09e055a9f77e5d555ce8
+</code></pre>
