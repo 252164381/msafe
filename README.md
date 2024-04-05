@@ -15,7 +15,7 @@
                             <pre><code>docker run -d -p &lt;代理访问端口&gt;:81 --name msafe --restart=always -e PROXY_PASS="&lt;网站IP+端口&gt;" -e PASSWORD=&lt;私钥&gt; 252164381/msafe</code></pre>
                         </div>
                         <p>PROXY_PASS默认值:http://127.0.0.1:80</p>
-                        <p>完成以上配置，您的网站可抵御大部分攻击。</p>
+                        <p>完成以上配置，网站可抵御大部分攻击。</p>
 <p></p>
 <h2>关键信息加密:</h2>
                         <div class="step">
